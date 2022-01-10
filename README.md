@@ -1,7 +1,3 @@
-# Jake Smith
-
-I am passionate about building two things: scalable modern architectures and highly performant engineers.
-
 # Experience
 
 ## Slalom Build - Solution Architect
