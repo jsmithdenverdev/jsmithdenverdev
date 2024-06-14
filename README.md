@@ -1,8 +1,19 @@
 # Experience
 
+## Digimarc - Senior Staff Engineer
+#### August 2022 - Present
+
+I joined Digimarc as a senior staff engineer, after being recruited to the company for my strong technical and leadership skills. These skills were sought after as the company was going through a major transformation, including the creation of a new SAAS platform.
+
+As a senior staff engineer I designed and evangelized the architecture of Digimarc’s Illuminate platform. This included everything from the architecture and initial services of the platform, to infrastructure management, deployment processes, and QE processes. I designed an approachable architecture that allowed new engineers without prior experience in the tech-stack to integrate quickly.
+
+In my role I was the senior “technical-lead”, providing mentoring and coaching to the other technical leads that guided our engineering teams. I created a strong culture of collaboration between our leads, and implemented structured processes to introduce and vet new architectural and technological decisions.
+
+I was responsible for the design and delivery of the platform's most critical components including our Engage product and its redirection engine, as well as a serialization solution that allowed customers to rapidly serialize tens of millions of their products. My focus was to design solutions that were simple, extensible, and maintainable.
+
 ## Slalom Build - Solution Architect
 
-#### April 2018 - _Present_
+#### April 2018 - August 2022
 
 I joined Slalom as a senior engineer excited to cut my teeth in consulting. I quickly developed a reputation for my technical prowess. That reputation led to me being staffed on a multitude of clients and allowed me to explore many technologies.
 
@@ -28,6 +39,12 @@ Outside of my work life, I am a search and rescue volunteer with Alpine Rescue T
 I am also a member of the Colorado Mountain Club. I actively volunteer with the club and was an instructor for Alpine Climbing School in the Spring of 2021. The school teaches students skills to allow them to safely target many of Colorado’s premier alpine routes. Skills such as navigation, rock climbing, snow climbing and self rescue.
 
 # Personal Projects
+
+## Pager
+
+911 paging service written in Go. Can be deployed to any container based platform.
+
+[https://jsmithdenverdev.github.io/pager/](https://jsmithdenverdev.github.io/pager/)
 
 ## Cat Facts
 
